@@ -432,7 +432,6 @@ body {
   background-image: url("assets/site_bg.png");
   background-repeat: repeat;
   background-attachment: fixed;
-  background-position: center;
   background-size: cover;
   background-position-x: right 2500px;
   animation: loopmove 10s infinite;
@@ -535,11 +534,6 @@ nav ul li a:hover {
 }
 
 
-
-body {
-    display: flex;
-    flex-direction: column; 
-}
 
 
 
