@@ -429,10 +429,13 @@ main {
 
 
 body {
-    font-family: regularfont;
-    margin: 0;
-    padding: 0;
-
+  background-image: url("assets/site_bg.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+	
+  
 }
 
 header {
