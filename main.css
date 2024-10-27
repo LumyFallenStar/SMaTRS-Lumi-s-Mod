@@ -613,6 +613,6 @@ section {
 }
 
 @keyframes loopmove {
-  50% {background-position-x: left 2500px;}
+  100% {background-position-x: left 2500px;}
 }
 
