@@ -434,7 +434,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position-x: right 2500px;
-  animation: loopmove 10s infinite;
+  background-animation: loopmove 10s infinite;
 	
   
 }
@@ -614,6 +614,7 @@ section {
 
 @keyframes loopmove {
   0% {background-position-x: right 2500px;}
-  100% {background-position-x: left 2500px;}
+
+  100% {background-position-x: left -2500px;}
 }
 
