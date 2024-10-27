@@ -199,6 +199,19 @@ body {
 }
 
 
+.download-box {
+    position: relative;
+    font-family: regularfont;
+    color: white;
+    padding: 0px;
+	padding-top: 24px;
+    border-radius: 10px;
+    overflow-y: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+
+	margin: auto;
+}
+
 
 
 
